@@ -1,6 +1,9 @@
 # Accenture_Internship
 Accenture Data Analytics and Visualization Virtual Experience by Forage
 
+![hzmoNKtzvAzXsEqx8_Accenture North America_DpSHLhYDko32tGnRr_1690281684987_completion_certificate_page-0001](https://github.com/shreyash-sarap/Accenture_Internship/assets/101419054/07d93e63-727a-46f1-af10-676980cd24d4)
+
+
 I have completed a Data Analytics and Visualization Virtual Experience. 
 I successfully completed practical tasks in the following areas:
 
